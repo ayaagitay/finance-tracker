@@ -1,0 +1,13 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "name": "Coffee",
+      "amount": 5,
+      "category": "Food",
+      "date": "2026-06-09",
+      "created_at": "2026-06-09T10:00:00.000Z"
+    }
+  ]
+}
+
